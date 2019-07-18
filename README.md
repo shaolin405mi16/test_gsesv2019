@@ -14,7 +14,7 @@ Then, each member of a particular group will collaborate writing up these `.md` 
 
 Before you start group collaboration and actual editing, be sure to:
 
-* switch to the branch of your group (i.e. if you're in the Group A, switch the branch from `master` to `GroupA`)
+* switch to the branch of your group (i.e. if you're in the Group A, switch the branch from `master` to `group_A`)
 * and you all are now ready for collaborative group editing.
 * after each edit, you should create pull requests for other group member's approval.
 
