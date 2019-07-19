@@ -1,4 +1,4 @@
 // Data Scientist \
-// Big Data \n
-// AI \n
-// Application \n
+// Big Data \
+// AI \
+// Application \
