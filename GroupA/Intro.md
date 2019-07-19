@@ -1,4 +1,4 @@
-# Introduction to the Department of Global Software Engineering, in A group's words
+# Introduction to the Department of Global Software Engineering
 
 ## Department Introduction
 
